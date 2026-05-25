@@ -1,8 +1,12 @@
 # One neuron for regression! 
 
+<img width="546" height="413" alt="image" src="https://github.com/user-attachments/assets/047eb64d-aeb3-4d81-a492-cbd4b07e709c" />
+
 In this short notebook, you will understand how an artificial neuron can calculate linear regression, based on Pytorch module. 
 
-Exercise 😉: How to evaluate the model with testing samples?
+Exercises 😉: 
+- [Matplotlib] How to plot the linear equation obtained by the model?
+- [Pytorch] How to evaluate the model with testing samples?
 
 ## Licensing
 
