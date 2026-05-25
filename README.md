@@ -5,11 +5,21 @@
 
 <img width="546" height="413" alt="image" src="https://github.com/user-attachments/assets/047eb64d-aeb3-4d81-a492-cbd4b07e709c" />
 
-In this short notebook, you will understand how an artificial neuron can calculate linear regression, based on Pytorch module. 
+In this short notebook, you will discover how a single artificial neuron can learn a linear regression from data using PyTorch.
 
-Exercises 😉: 
-- [Matplotlib] How to plot the linear equation obtained by the model?
-- [Pytorch] How to evaluate the model with testing samples?
+This simple example helps build intuition about:
+- Linear regression
+- Trainable weights and bias
+- Loss minimization
+- Gradient-based optimization
+- Neural network fundamentals 
+
+## Try it yourself!
+
+Once you've run the notebook, you can extend it with a few small exercises:
+
+- [Matplotlib] Plot the learned regression line.
+- [PyTorch] Evaluate the model on testing samples.
 
 ## Licensing
 
