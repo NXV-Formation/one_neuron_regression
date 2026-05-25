@@ -1,5 +1,8 @@
 # One neuron for regression! 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NXV-Formation/colabtools/blob/master/notebooks/Regression_one_neuron.ipynb)
+
+
 <img width="546" height="413" alt="image" src="https://github.com/user-attachments/assets/047eb64d-aeb3-4d81-a492-cbd4b07e709c" />
 
 In this short notebook, you will understand how an artificial neuron can calculate linear regression, based on Pytorch module. 
